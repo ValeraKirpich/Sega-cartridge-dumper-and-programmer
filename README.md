@@ -6,8 +6,6 @@
     <img src="https://github.com/ValeraKirpich/Sega-cartridge-dumper-and-programmer/blob/main/IMG2.jpg" width=50% height=auto>
   </p>
 
-  <iframe width="560" height="315" src="https://youtu.be/QXO5ONpnvmk?si=fZDIeXT8uOC2z66M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
   <h3><strong>RU</strong></h3>
   <h3><strong>Описание</strong></h3>
 
